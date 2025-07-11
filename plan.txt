@@ -1,0 +1,13 @@
+phishkit/
+├── templates/
+│   └── facebook.html      # Phishing page template
+├── static/
+│   └── style.css          # (Optional styling)
+├── logs/
+│   └── creds.txt          # Stored credentials
+├── main.py                # CLI entry point
+├── server.py              # Flask app to serve fake login
+├── ngrok.sh               # Shell script to start Ngrok tunnel
+├── requirements.txt
+└── README.md
+

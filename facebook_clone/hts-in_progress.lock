@@ -1,0 +1,7 @@
+Mirror in progress since Fri, 11 Jul 2025 15:11:50 .. please wait!
+httrack https://facebook.com/login -O facebook_clone -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=5286
+UID=1000
+GID=1000
+START=1752226910
